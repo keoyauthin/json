@@ -1,3 +1,10 @@
-{"Achat Boisson Gâteau": "Achat Boisson Gâteau",
-  "Alimentation": "Alimentation",
-  "Hôtel": "Hôtel"}
+[
+{
+name: "Achat Boisson Gâteau"
+},
+{
+name: "Alimentation"},
+{
+name: "Hôtel"
+}
+]
