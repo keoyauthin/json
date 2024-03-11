@@ -1,5 +1,6 @@
 [
   {name: "Achat Boisson Gâteau"},
   {name: "Alimentation"},
-  {name: "Hôtel"}
+  {name: "Hôtel"},
+  {name: "Restaurant"}
 ]
